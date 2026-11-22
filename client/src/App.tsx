@@ -515,7 +515,7 @@ export function App() {
   return (
     <div className="min-h-screen bg-[var(--bg)] text-[var(--text)]">
       <SafeAreaTopScrim backgroundColor="var(--bg)" />
-      <main className="mx-auto w-full max-w-3xl px-4 pb-10 pt-3">
+      <main className="mx-auto w-full max-w-6xl px-4 pb-10 pt-3">
         {/* Header row, per the reference screenshot */}
         <div className="flex items-start justify-between gap-2">
           <div className="min-w-0">
